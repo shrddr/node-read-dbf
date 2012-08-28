@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"magic",
+				"magic_points"
+			],
+			[
+				"margin",
+				"margin	margin-top: length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "router.js",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "handlers.js",
+			"settings":
+			{
+				"buffer_size": 1893,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: on"
+			],
+			[
+				"Snippet: $(",
+				"Snippet: $('#select DOM Element')"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/server/ci2/application/models/news_model.php",
+		"/E/server/ci2/application/controllers/news.php",
+		"/E/server/ci2/application/config/database.php",
+		"/E/server/ci2/application/models/db_model.php",
+		"/E/server/ci2/application/controllers/welcome.php",
+		"/E/server/ci2/application/config/routes.php",
+		"/E/server/onliner/parse.js",
+		"/E/server/onliner/index.htm",
+		"/E/Software/Sublime Text/Data/Packages/FTPSync/ftpsync.sublime-settings",
+		"/E/server/eterniya/skillpoints.sublime-project",
+		"/E/Software/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/E/server/CodeIgniter/css/detail.css",
+		"/E/server/CodeIgniter/css/results.css",
+		"/E/server/CodeIgniter/css/index.css",
+		"/E/server/CodeIgniter/css/main.css",
+		"/E/server/CodeIgniter/application/views/index_view.php",
+		"/E/server/CodeIgniter/js/jquery-1.7.2.js",
+		"/E/server/CodeIgniter/index.php",
+		"/E/server/CodeIgniter/ftpsync.settings",
+		"/E/server/belorg/vid/index.htm",
+		"/E/server/eterniya/.htaccess",
+		"/E/server/eterniya/modules/skillpoints/index.php",
+		"/E/server/eterniya/templates/eternia/module/skillpoints_show.html",
+		"/E/server/eterniya/templates/eternia/module/skillpoints_form.html",
+		"/E/server/eterniya/images/skillpoints/edit.js",
+		"/E/server/eterniya/images/skillpoints/style.css",
+		"/E/server/eterniya/modules/user/admin.php",
+		"/E/server/eterniya/modules/user/index.php",
+		"/E/server/eterniya/templates/eternia/module/user_anketa_show.html",
+		"/E/server/eterniya/modules/personages/indexu.php",
+		"/E/Software/Sublime Text/Data/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/E/Software/Sublime Text/Data/Packages/User/sublime-jslint.sublime-settings",
+		"/E/Software/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Software/Sublime Text/Data/Packages/HexViewer/Default (Windows).sublime-keymap",
+		"/E/Software/Sublime Text/Data/Packages/HexViewer/hex_viewer.sublime-settings",
+		"/E/Software/Sublime Text/Data/Packages/User/hex_viewer.sublime-settings",
+		"/E/Software/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/server/eterniya/ftpsync.settings",
+		"/E/server/eterniya/images/skillpoints/ftpsync.settings",
+		"/E/server/eterniya/images/skillpoints/script.js",
+		"/E/server/eterniya/images/skillpoints/index.htm",
+		"/E/server/talents/script.js",
+		"/E/server/talents/index.htm",
+		"/E/server/eterniya/templates/eternia/module/skillpoints/script.js",
+		"/E/server/drupal/themes/bartik/css/style.css",
+		"/E/server/drupal/themes/newspro/css/all.css",
+		"/E/server/drupal/sites/all/libraries/superfish/style/coffee.css",
+		"/E/server/CodeIgniter/application/controllers/main.php",
+		"/E/server/CodeIgniter/application/controllers/blog.php",
+		"/E/server/CodeIgniter/application/views/blog_view.css",
+		"/E/server/CodeIgniter/application/views/blog_view.php",
+		"/E/server/talents/style.css",
+		"/E/server/favs.php",
+		"/E/Andrew Docs/ioccc/otccn.c",
+		"/E/Andrew Docs/ioccc/otccex.c",
+		"/E/Andrew Docs/ioccc/bellard.c",
+		"/E/Andrew Docs/ioccc/akari.c",
+		"/E/Andrew Docs/Delphi/Kana Trainer/Main.dfm",
+		"/E/Software/Sublime Text/Data/Packages/PHP/PHP.tmLanguage",
+		"/E/Software/Sublime Text/Data/Packages/PHP/PHP.sublime-completions"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\");\n",
+			"anketa_form_input",
+			"собрать",
+			"content",
+			"logo",
+			"superf",
+			"nav",
+			"this",
+			"data",
+			"class=\"drop\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"cell\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "router.js",
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "handlers.js",
+					"settings":
+					{
+						"buffer_size": 1893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1596,
+								1596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 465.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.hex_viewer_inspector":
+	{
+		"height": 100.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/server/eterniya/skillpoints.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
