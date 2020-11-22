@@ -1,4 +1,4 @@
-Parses a DBF file and shows a zoomable plot
+Parses a DBF file and shows a zoomable plot in web browser
 
 Usage: `node index.js`
 
